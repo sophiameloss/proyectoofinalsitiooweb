@@ -1,0 +1,85 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { 
+    height: 100%;
+    
+}
+
+.mi_navbar {
+    background-color:cadetblue;
+}
+
+.nav-link {
+color: white !important;
+}
+
+.nav-link:hover{
+    color:goldenrod !important;
+}
+
+.navbar-brand {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.hero-content {
+    background: url("img/_\ \(6\).jpeg") center center/cover;
+    height: 100vh;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    padding: 0 40px;
+}
+
+.intro {
+    font-size: 30px;
+    margin: 0 auto 10px;
+    margin-top: 70px;
+    max-width: 700px;
+    line-height: 1.6;
+}
+
+footer {
+    background-color:lightcoral!important;
+    color:darkred !important;
+    text-align: center;
+    padding:20px
+}
+
+footer h3 {
+    margin: 0,0,10px;
+    font-size: large;
+}
+
+.footer-bottom {font-size: 14px;
+color:white !important;}
+
+.container {
+    
+    height: 680px;
+}
+
+.text-center {
+    margin-top:65px;
+}
+
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+
+.container2{
+    height: 1000px;
+}
+
+.imagen4 {
+    height: 1000px;
+    width: auto;
+}
+
